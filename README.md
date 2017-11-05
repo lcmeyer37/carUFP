@@ -4,7 +4,7 @@ Welcome to this repo on GitHub (my first!), it contains python script files that
 
 So, along with this README.md file, you also have the CarND-Capstone-master, that contains the files necessary for compilation of this project.
 
-This final project is done in groups. The group for this project consist of the following:
+This final project is done in groups. The group for this project consist of the following members:
 
 ### Team Members
 * Alan Hekle (alanhekle@hotmail.com) (slack: @theaisback)
