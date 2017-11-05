@@ -13,6 +13,7 @@ This final project is done in groups. The group for this project consist of the 
 * Lucas Meyer (lc_meyer@hotmail.com) (slack: @lcmeyer)
 * Samir Haddad (samir.haddad@outlook.com) (slack: @sam01)
 
+
 ![alt text](http://dru-cdn.zipcar.com/sites/default/files/styles/content-portal-slideshow-slide/public/1_fi_GoogleDriverlessCar.jpg?itok=Lf3O025O)
 
 Drive Safe!
