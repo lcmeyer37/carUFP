@@ -1,0 +1,8 @@
+*.py[cod]
+
+build
+devel
+
+profile.tmp
+ros/src/tl_detector/light_classification/*.jpg
+traffic_light_bag_files/
