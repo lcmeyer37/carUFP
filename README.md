@@ -10,7 +10,7 @@ This final project is done in groups. The group for this project consist of the 
 * Alan Hekle (alanhekle@hotmail.com) (slack: @theaisback)
 * Brian McHugh (Brian.L.McHugh@gmail.com) (slack: @mchugh)
 * Kev Lai (kevlai22@uw.edu) (slack: @kevlai)
-* Lucas Meyer (lc_meyer@hotmail.com) (slack: @lcmeyer)
+* [Lucas Meyer](https://www.linkedin.com/in/lucascmeyer/ "Lucas Meyer - LinkedIn") (lc_meyer@hotmail.com) (slack: @lcmeyer)
 * Samir Haddad (samir.haddad@outlook.com) (slack: @sam01)
 
 
