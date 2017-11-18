@@ -60,7 +60,7 @@ The System Architecture comprises of the following subsystems:
     - def control(self, twistCommandLinear, twistCommandAngular, currentVelocityLinear, dbwEnabled): this function is worth mentioning, it calculates the errors described above and uses the PID class provided to calculate the next value for throttle and brake. The steering value uses the YawController class to get the steering angle needed for driving.
     
     
-## Considerations
+## Final Considerations
 
 Considering that the car currently is able to drive itself along the simulator, with an average speed of approximately 10 miles per hour, and that the car is able to follow the path of the highway and detect traffic lights, deciding if it should stop or go along the course, the group has decided that the current state of the project is acceptable as resolution and for presentation.
 
