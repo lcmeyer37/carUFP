@@ -63,6 +63,5 @@ The System Architecture comprises of the following subsystems:
 ## Considerations
 
 Considering that the car currently is able to drive itself along the simulator, with an average speed of approximately 10 miles per hour, and that the car is able to follow the path of the highway and detect traffic lights, deciding if it should stop or go along the course. The group decided that the current state of the project is acceptable as resolution and for presentation.
-    
-    
-  
+
+November 18th, 2017. Roadhammer group.
